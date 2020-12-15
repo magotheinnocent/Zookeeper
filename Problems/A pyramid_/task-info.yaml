@@ -6,9 +6,8 @@ files:
   text: print(...)
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6892#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed. Wrong answer
-  time: Tue, 15 Dec 2020 14:27:44 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 15 Dec 2020 14:29:23 UTC
 record: -1
