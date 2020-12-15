@@ -5,5 +5,8 @@ files:
   text: print(...)
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6881#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 15 Dec 2020 14:40:11 UTC
 record: -1
